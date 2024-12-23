@@ -3,7 +3,7 @@
 import pandas as pd
 
 # Load the dataset
-data = pd.read_csv('/Users/oj/Desktop/BFSales Analysis/train.csv')
+data = pd.read_csv('train.csv')
 
 # Preview the data
 print(data.head())
